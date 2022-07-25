@@ -1,5 +1,6 @@
 ### Hi there, I'm Huguitis 👋
 
+- 👑 I own a small hosting company: [Huguitis Nodes](https://panel.huguitisnodes.host)
 - 🔭 I’m currently working on my Discord Bot "Anti Malware"
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I love tuna.
