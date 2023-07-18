@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Huguitis Nodes](https://huguitisnodes.host/)
 
-- 🌱 I’m currently learning **Java and the linux environment.**
+- 🌱 I’m currently learning **linux.**
 
 - 👯 I’m looking to collaborate on [Anti Malware](https://antimalware.ga)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write on my discord server [https://discord.gg/Rcuh5BD83f](https://discord.gg/Rcuh5BD83f)
 
-- 💬 Ask me about **mongodb and linux.**
+- 💬 Ask me about **mysql and linux.**
 
 - 📫 How to reach me **mail@huguitisnodes.host**
 
