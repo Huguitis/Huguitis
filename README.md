@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huguitis</h1>
-<h3 align="center">Another shitty developer and a hosting service maintainer.</h3>
+<h3 align="center">Passionate developer and dedicated hosting service maintainer. Let's build a better future through code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huguitis&label=Profile%20views&color=0e75b6&style=flat" alt="huguitis" /> </p>
 
