@@ -9,8 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/Windows%2011%20Pro-grey?logo=windows&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Windows%2011%20Pro-grey?logo=windows&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/x2%20Intel(R)%20Xeon(R)%20Gold%206254%20CPU%20%40%203.10GHz-grey?logo=intel&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/384GB%20RAM%20DDR4%202933%20MT%2Fs-grey?logo=amazonec2&logoColor=orange)
-
+![Static Badge]()
+<img alt="RAM" src="https://img.shields.io/badge/384GB%20RAM%20DDR4%202933%20MT%2Fs-grey?logo=amazonec2&logoColor=orange" />
 
 
 - 🔭 I’m currently working on [Huguitis Nodes](https://huguitisnodes.host/)
