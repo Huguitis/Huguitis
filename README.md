@@ -11,7 +11,6 @@
 <img alt="CPU" src="https://img.shields.io/badge/x2%20Intel(R)%20Xeon(R)%20Gold%206254%20CPU%20%40%203.10GHz-grey?logo=intel&logoColor=blue" />
 <img alt="RAM" src="https://img.shields.io/badge/384GB%20RAM%20DDR4%202933%20MT%2Fs-grey?logo=amazonec2&logoColor=orange" />
 
-<h3 align="left">Information:</h3>
 - 🔭 I’m currently maintaining [Huguitis Nodes](https://huguitisnodes.host/)
 - 🌱 I’m currently learning **linux and server hosting.**
 - 👨‍💻 All of my projects are available at [https://github.com/Huguitis](https://github.com/Huguitis)
