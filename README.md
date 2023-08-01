@@ -12,25 +12,12 @@
 <img alt="RAM" src="https://img.shields.io/badge/384GB%20RAM%20DDR4%202933%20MT%2Fs-grey?logo=amazonec2&logoColor=orange" />
 
 
-- 🔭 I’m currently working on [Huguitis Nodes](https://huguitisnodes.host/)
-
-- 🌱 I’m currently learning **linux.**
-
-- 👯 I’m looking to collaborate on [Anti Malware](https://antimalware.ga)
-
-- 🤝 I’m looking for help with [ControlPanel Bot](https://github.com/Huguitis/ControlPanel.gg-Bot)
-
+- 🔭 I’m currently maintaining [Huguitis Nodes](https://huguitisnodes.host/)
+- 🌱 I’m currently learning **linux and server hosting.**
 - 👨‍💻 All of my projects are available at [https://github.com/Huguitis](https://github.com/Huguitis)
-
 - 📝 I regularly write on my discord server [https://discord.gg/Rcuh5BD83f](https://discord.gg/Rcuh5BD83f)
-
 - 💬 Ask me about **mysql and linux.**
-
 - 📫 How to reach me **mail@huguitisnodes.host**
-
-- 📄 I'm from Spain. [https://www.youtube.com/watch?v=GWCldYPEsl4](https://www.youtube.com/watch?v=GWCldYPEsl4)
-
-- ⚡ Fun fact **I love tuna.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
