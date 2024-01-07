@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huguitis" alt="huguitis" /></a> </p>
 
-<h3 align="left">PC Specs:</h3> <img alt="PC" src="https://img.shields.io/badge/HP%20Workstation%20Z4%20G4-grey?logo=hp&logoColor=blue" />
+<h3 align="left">PC Specs:</h3> <img alt="PC" src="https://img.shields.io/badge/HP%20Workstation%20Z8%20G4-grey?logo=hp&logoColor=blue" />
 <img alt="OS" src="https://img.shields.io/badge/Windows%2011%20Pro-grey?logo=windows&logoColor=blue" />
 <img alt="GRAPHIC" src="https://img.shields.io/badge/Nvidia%20Quadro%20RTX%206000%2024GB-grey?logo=nvidia&logoColor=green" />
 <img alt="CPU" src="https://img.shields.io/badge/x2%20Intel(R)%20Xeon(R)%20Gold%206254%20CPU%20%40%203.10GHz-grey?logo=intel&logoColor=blue" />
